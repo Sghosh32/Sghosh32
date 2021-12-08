@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soumyadeep Ghosh
-- 👀 I’m interested in computer vision, machine learning, robotics
-- 🌱 I’m currently learning computer vision and machine learning
+- 👀 I’m interested in computer vision, machine learning, deep learning
+- 🌱 I’m currently learning deep learning and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
